@@ -1,0 +1,18 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "description": "animated effect made with react spring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Parallax"
+  },
+  "author": "andre lee",
+  "license": "ISC",
+  "dependencies": {
+    "react-spring": "^8.0.18"
+  }
+}
