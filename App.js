@@ -1,2 +1,14 @@
 //DOM itens
-const principal=document.querySelector('div');
+const principal=document.querySelector('section');
+
+//fade in effect
+let scrollUp=false
+principal.addEventListener('scroll', scrollY);
+
+function scrollY(){
+    if (scrollUp) {
+        principal
+        
+    }
+
+}

@@ -4,25 +4,32 @@ body{
     
 }
 
-h1{
-    text-align: center;
-}
-div{
+
+section{
     height: 100vh;
-    width: 100vw;
-    background-attachment: fixed;
- 
-}
+    }
 
 .box1{
-    background-color: aliceblue;
+    background:url(/image1.jpg);
    background-attachment: fixed;
-}.box2{
-    background-color: red;
+}
+.box2{
+    background:url(/image2.jpg);
     background-attachment: fixed;
-}.box3{
-    background-color: black;
+}
+.box3{
+    background:url(/image3.jpg);
     background-attachment: fixed;
-    color: aliceblue;
+   
+}
+.box4{
+    background:url(/image4.jpg);
+    background-attachment: fixed;
+   
+}
+.box5{
+    background:url(/image5.jpg);
+    background-attachment: fixed;
+   
 }
 
