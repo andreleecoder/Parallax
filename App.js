@@ -6,11 +6,12 @@ let scrollUp=false
 principal.addEventListener("scroll", scrollY);
 
 function scrollY(){
-    if (principal== scrollY) {
+    if (principal == scrollY) {
         ActiveXObject.fadeIn
         
     }
 
 }
 
-//https://www.w3schools.com/howto/howto_js_navbar_slide.asp
+//https://onextrapixel.com/how-to-create-a-beautiful-fullscreen-single-scrolling-page-like-huge-inc/
+//https://alvarotrigo.com/pagePiling/#page3
