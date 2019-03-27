@@ -16,20 +16,33 @@ section{
 .box2{
     background:url(/image2.jpg);
     background-attachment: fixed;
+    animation: fadeIn;
+    animation-duration: 0.5s;
 }
 .box3{
     background:url(/image3.jpg);
     background-attachment: fixed;
+    animation: fadeIn;
+    animation-duration: 0.5s;
    
 }
 .box4{
     background:url(/image4.jpg);
     background-attachment: fixed;
+    animation: fadeIn;
+    animation-duration: 0.5s;
    
 }
 .box5{
     background:url(/image5.jpg);
     background-attachment: fixed;
+    animation: fadeIn;
+    animation-duration: 0.5s;
    
+}
+
+@keyframes fadeIn{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
 }
 
